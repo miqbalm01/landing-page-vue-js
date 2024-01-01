@@ -1,4 +1,4 @@
-# belajar_06
+# Landing Page Vue Js
 
 This template should help get you started developing with Vue 3 in Vite.
 
