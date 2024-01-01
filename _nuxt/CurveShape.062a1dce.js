@@ -1,0 +1,1 @@
+import{_,o as e,c as o,E as c}from"./entry.e4c421d5.js";const n={},t={class:"curve-shape"},r={x:"0px",y:"0px",viewBox:"0 0 3841 120",style:{overflow:"scroll","enable-background":"new 0 0 3841 120"},"xml:space":"preserve"};function a(s,l){return e(),o("div",t,[(e(),o("svg",r,[c(s.$slots,"bgcolor")]))])}const d=_(n,[["render",a]]);export{d as default};

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/product/flone-color-table-one", {data:[{}],fetch:{},mutations:[]});

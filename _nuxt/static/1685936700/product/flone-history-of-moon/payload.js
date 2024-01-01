@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/product/flone-history-of-moon", {data:[{}],fetch:{},mutations:[]});

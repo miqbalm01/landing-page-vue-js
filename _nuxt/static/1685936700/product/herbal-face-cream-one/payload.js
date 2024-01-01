@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/product/herbal-face-cream-one", {data:[{}],fetch:{},mutations:[]});

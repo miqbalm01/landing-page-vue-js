@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/product/flone-fly-high", {data:[{}],fetch:{},mutations:[]});

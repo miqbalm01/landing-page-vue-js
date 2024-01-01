@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/product/flone-nourishing-skin-cream", {data:[{}],fetch:{},mutations:[]});

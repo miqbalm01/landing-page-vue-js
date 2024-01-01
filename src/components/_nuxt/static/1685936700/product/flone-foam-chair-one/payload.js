@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/product/flone-foam-chair-one", {data:[{}],fetch:{},mutations:[]});

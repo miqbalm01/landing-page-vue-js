@@ -1,0 +1,1 @@
+import"./entry.e4c421d5.js";const i=""+globalThis.__publicAssetsURL("img/blog/big-img/standard-post-2.jpg"),l=""+globalThis.__publicAssetsURL("img/blog/client/client-1.jpg"),t=""+globalThis.__publicAssetsURL("img/blog/client/client-2.jpg"),o=""+globalThis.__publicAssetsURL("img/blog/client/client-3.jpg");export{i as _,l as a,t as b,o as c};

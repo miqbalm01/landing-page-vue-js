@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/product/boxy-denim-jacket", {data:[{}],fetch:{},mutations:[]});

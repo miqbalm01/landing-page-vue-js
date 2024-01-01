@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/product/flone-moisturizing-lotion", {data:[{}],fetch:{},mutations:[]});

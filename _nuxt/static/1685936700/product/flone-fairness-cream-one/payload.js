@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/product/flone-fairness-cream-one", {data:[{}],fetch:{},mutations:[]});

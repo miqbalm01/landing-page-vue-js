@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/product/tour-gide-for-africa", {data:[{}],fetch:{},mutations:[]});
