@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/product/flone-acne-cream", {data:[{}],fetch:{},mutations:[]});

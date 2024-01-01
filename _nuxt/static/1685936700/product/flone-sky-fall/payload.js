@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/product/flone-sky-fall", {data:[{}],fetch:{},mutations:[]});

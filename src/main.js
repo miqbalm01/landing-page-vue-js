@@ -5,17 +5,11 @@ import './assets/main.css'
 import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router';
-export default {
-  data() {
-    return {
-      cdnURL: '../_nuxt/entry.e4c421d5.js', // Ganti dengan URL CDN yang sesuai
-    };
-  },
-  // ...
-};
 
 
 createApp(App).use(router).mount('#app');
+
+
 // import VueRouter from 'vue-router';
 // import Home from './views/Home.vue';
 

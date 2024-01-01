@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/product/rex-skin-lightening-cream", {data:[{}],fetch:{},mutations:[]});

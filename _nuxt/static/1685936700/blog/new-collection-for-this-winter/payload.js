@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/new-collection-for-this-winter", {data:[{}],fetch:{},mutations:[]});

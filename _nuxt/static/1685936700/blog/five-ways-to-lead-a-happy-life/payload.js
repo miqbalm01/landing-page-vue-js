@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/five-ways-to-lead-a-happy-life", {data:[{}],fetch:{},mutations:[]});

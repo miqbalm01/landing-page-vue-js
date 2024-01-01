@@ -2,34 +2,61 @@
 import 'bootstrap/dist/css/bootstrap.css';
 import '@fortawesome/fontawesome-free/css/all.css';
 
-import '../../_nuxt/boostrap-3.css'
-import '../../_nuxt/boostrap-2.css'
-import '../../_nuxt/boostrap.css'
-import '../../_nuxt/boostrap-4.css'
-import '../../_nuxt/entry.82049f6f.css'
-import '../../_nuxt/OffCanvasMobileMenu.6d8c64f5.css'
-import '../../_nuxt/entry.e4c421d5.js'
-import '../../_nuxt/default.3edbe563.js'
-import '../../_nuxt/services-classic.1400c3ac.js'
+// import '../../_nuxt/boostrap-3.css'
+// import '../../_nuxt/boostrap-2.css'
+// import '../../_nuxt/boostrap.css'
+// import '../../_nuxt/boostrap-4.css'
+// import '../../_nuxt/entry.82049f6f.css'
+// import '../../_nuxt/OffCanvasMobileMenu.6d8c64f5.css'
+// import '../../_nuxt/default.3edbe563.js'
+// import '../../_nuxt/services-classic.1400c3ac.js'
 
-import '../../_nuxt/HeaderElement.d5db07f5.js'
-import '../../_nuxt/OffCanvasMobileMenu.0c9baa2b.js'
-import '../../_nuxt/FooterTwo.fd8c850b.js'
-import '../../_nuxt/SearchPopup.770988b6.js'
+// import '../../_nuxt/HeaderElement.d5db07f5.js'
+// import '../../_nuxt/OffCanvasMobileMenu.0c9baa2b.js'
+// import '../../_nuxt/FooterTwo.fd8c850b.js'
+// import '../../_nuxt/SearchPopup.770988b6.js'
 
-import '../../_nuxt/GradationOne.a2432f5b.js'
-import '../../_nuxt/CallToAction.911852d7.js'
-import '../../_nuxt/IconBoxItemOne.5e04a354.js'
-import '../../_nuxt/service.fa2df33f.js'
-import '../../_nuxt/entry.e4c421d5.js'
+// import '../../_nuxt/GradationOne.a2432f5b.js'
+// import '../../_nuxt/CallToAction.911852d7.js'
+// import '../../_nuxt/IconBoxItemOne.5e04a354.js'
+// import '../../_nuxt/service.fa2df33f.js'
+// import '../../_nuxt/entry.e4c421d5.js'
 
 
-import '../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js'
-import '../../_nuxt/_payload.json'
+// import '../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js'
+// import '../../_nuxt/_payload.json'
 import Header from '@/components/Header.vue';
 import Footer from '@/components/Footer.vue';
 </script>
+
 <template>
+
+    <!-- <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../_nuxt/boostrap.css">
+    <link rel="stylesheet" href="../../_nuxt/boostrap-2.css">
+    <link rel="stylesheet" href="../../_nuxt/boostrap-3.css">
+    <link rel="stylesheet" href="../../_nuxt/boostrap-4.css">
+    <link rel="stylesheet" href="../../_nuxt/boostrap-5.css">
+    <link rel="stylesheet" href="../../_nuxt/boostrap-6.css">
+    <link rel="stylesheet" href="../../_nuxt/boostrap-7.css">
+    <link rel="stylesheet" href="../../_nuxt/boostrap-8.css">
+    <link rel="stylesheet" href="../../_nuxt/entry.82049f6f.css">
+    <link rel="stylesheet" href="../../_nuxt/OffCanvasMobileMenu.6d8c64f5.css">
+    <link rel="modulepreload" as="script" crossorigin href="../../_nuxt/entry.e4c421d5.js">
+    <link rel="modulepreload" as="script" crossorigin href="../../_nuxt/default.3edbe563.js">
+    <link rel="modulepreload" as="script" crossorigin href="../../_nuxt/services-classic.1400c3ac.js">
+    <link rel="modulepreload" as="script" crossorigin href="../../_nuxt/HeaderElement.d5db07f5.js">
+    <link rel="modulepreload" as="script" crossorigin href="../../_nuxt/OffCanvasMobileMenu.0c9baa2b.js">
+    <link rel="modulepreload" as="script" crossorigin href="../../_nuxt/FooterTwo.fd8c850b.js">
+    <link rel="modulepreload" as="script" crossorigin href="../../_nuxt/SearchPopup.770988b6.js">
+    <link rel="modulepreload" as="script" crossorigin href="../../_nuxt/GradationOne.a2432f5b.js">
+    <link rel="modulepreload" as="script" crossorigin href="../../_nuxt/CallToAction.911852d7.js">
+    <link rel="modulepreload" as="script" crossorigin href="../../_nuxt/IconBoxItemOne.5e04a354.js">
+    <link rel="modulepreload" as="script" crossorigin href="../../_nuxt/service.fa2df33f.js">
+    <link rel="modulepreload" as="script" crossorigin href="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"> -->
+
+    <!-- <link rel="modulepreload" as="script" crossorigin href="../../_nuxt/_payload.json"> -->
     <div id="__nuxt">
         <div>
             <!--[-->
@@ -105,7 +132,7 @@ import Footer from '@/components/Footer.vue';
             </div>
             <!--]-->
         </div>
-    </div>
+    </div>  
 
 </template>
 

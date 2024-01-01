@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/product/flone-wooden-table-one", {data:[{}],fetch:{},mutations:[]});

@@ -6,7 +6,7 @@
                                 <div class="header__wrapper mr--0" data-v-0586685d>
                                     <div class="header-left flex-20" data-v-0586685d>
                                         <div class="logo" data-v-0586685d>
-                                            <a href="../index.html" class="" data-v-0586685d><img src="../img/logo/brook-white2.png" alt="Brook Logo" data-v-0586685d></a>
+                                            <a href="../index.html" class="" data-v-0586685d><img src="../../img/logo/brook-white2.png" alt="Brook Logo" data-v-0586685d></a>
                                         </div>
                                     </div>
                                     <div class="mainmenu-wrapper d-none d-lg-block" data-v-0586685d>
@@ -45,7 +45,7 @@
                     <div class="inner">
                         <div class="mobileheader">
                             <div class="logo">
-                                <a href="../index.html" class=""><img src="../img/logo/brook-black.png" alt="brand logo"></a>
+                                <a href="../index.html" class=""><img src="../../img/logo/brook-black.png" alt="brand logo"></a>
                             </div>
                             <button class="mobile-close"></button>
                         </div>
@@ -72,7 +72,7 @@
                     <div class="inner">
                         <div class="search-header">
                             <div class="logo">
-                                <a href="../index.html" class=""><img src="../img/logo/brook-black.png" alt="brand logo"></a>
+                                <a href="../index.html" class=""><img src="../../img/logo/brook-black.png" alt="brand logo"></a>
                             </div>
                             <button class="search-close"></button>
                         </div>

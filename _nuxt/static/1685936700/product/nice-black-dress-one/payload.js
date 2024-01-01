@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/product/nice-black-dress-one", {data:[{}],fetch:{},mutations:[]});
